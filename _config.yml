@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Aiden's independent project blog
+email:       aidenkwok.co.uk
+author:      Aiden Kwok
+description: ""
 baseurl:     ""
 url:         "http://aidenkwok.co.uk/blog"
 date_format: "%b %-d, %Y"
@@ -42,7 +42,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: 
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
@@ -107,7 +107,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     5
 sass:
   style: compressed
 gems:
