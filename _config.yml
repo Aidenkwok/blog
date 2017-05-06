@@ -109,6 +109,7 @@ redcarpet:
 permalink:    pretty
 paginate:     5
 paginate_path: "/blog/page:num"
+destination: _site/blog
 sass:
   style: compressed
 gems:
