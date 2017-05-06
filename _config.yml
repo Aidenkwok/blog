@@ -108,7 +108,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     5
-destination: _site/blog
+paginate_path: "/blog/page:num"
 sass:
   style: compressed
 gems:
