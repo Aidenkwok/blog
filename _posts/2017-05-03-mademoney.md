@@ -21,7 +21,7 @@ Then ran data merge with the database with inDesign to automatically generate my
 Now time to photograph it:  
 Here's how I made it look like I have money flying everywhere:  
 First, start I started with no money.
-![start]({{ site.url }}/images/IMG_9730.jpg)
+![start]({{ site.url }}/images/first.jpg)
 
 Then I added more money. Each note is added independently.  
 Here's the final image:
